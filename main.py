@@ -1,3 +1,2 @@
-Taegyun Baek
-print("Hello World!")
-print("Changes")
+print("백태균")
+print("201801178")
